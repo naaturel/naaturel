@@ -1,5 +1,5 @@
 <h1 align="center">Hello there ! 👋</h1>
-<h3 align="center">A junior backend dev from Belgium trying to do front end stuff sometimes</h3>
+<h3 align="center">A junior backend dev from Belgium trying to make front end stuff sometimes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naaturel&label=Profile%20views&color=0e75b6&style=flat" alt="naaturel" /> </p>
 
