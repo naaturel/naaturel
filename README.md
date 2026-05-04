@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naaturel" alt="naaturel" /></a> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naaturel&" alt="naaturel" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/naaturel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naaturel_" height="30" width="40" /></a>
@@ -56,5 +58,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/naaturel"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="naaturel" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naaturel&" alt="naaturel" /></p>
